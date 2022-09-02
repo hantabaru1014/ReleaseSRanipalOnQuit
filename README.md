@@ -1,5 +1,7 @@
 # ReleaseSRanipalOnQuit
 
+This mod was created to fix issue [#3744](https://github.com/Neos-Metaverse/NeosPublic/issues/3744)
+
 A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that fixed SRanipal not releasing properly on quit.
 
 ## Installation
